@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohammad\\source\\repos\\AfarineshTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{257EAB58-E4CB-430B-9B43-E07A9EEE63FC}|AfarineshTask\\AfarineshTask.csproj|c:\\users\\mohammad\\source\\repos\\afarineshtask\\afarineshtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257EAB58-E4CB-430B-9B43-E07A9EEE63FC}|AfarineshTask\\AfarineshTask.csproj|solutionrelative:afarineshtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammad\\source\\repos\\AfarineshTask\\AfarineshTask\\Program.cs",
+              "RelativeDocumentMoniker": "AfarineshTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohammad\\source\\repos\\AfarineshTask\\AfarineshTask\\Program.cs",
+              "RelativeToolTip": "AfarineshTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:40:30.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

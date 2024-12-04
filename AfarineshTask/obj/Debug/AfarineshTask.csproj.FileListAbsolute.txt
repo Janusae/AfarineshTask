@@ -1,0 +1,7 @@
+C:\Users\Mohammad\source\repos\AfarineshTask\AfarineshTask\bin\Debug\AfarineshTask.exe.config
+C:\Users\Mohammad\source\repos\AfarineshTask\AfarineshTask\bin\Debug\AfarineshTask.exe
+C:\Users\Mohammad\source\repos\AfarineshTask\AfarineshTask\bin\Debug\AfarineshTask.pdb
+C:\Users\Mohammad\source\repos\AfarineshTask\AfarineshTask\obj\Debug\AfarineshTask.csproj.AssemblyReference.cache
+C:\Users\Mohammad\source\repos\AfarineshTask\AfarineshTask\obj\Debug\AfarineshTask.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad\source\repos\AfarineshTask\AfarineshTask\obj\Debug\AfarineshTask.exe
+C:\Users\Mohammad\source\repos\AfarineshTask\AfarineshTask\obj\Debug\AfarineshTask.pdb
